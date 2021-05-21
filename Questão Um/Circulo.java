@@ -1,4 +1,4 @@
-package questaoum;
+package main;
 
 public class Circulo {
     Ponto origem;
